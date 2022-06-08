@@ -7,10 +7,9 @@ let max_value = 0
 let adder = 0
 let multiplier = 0
 let modulus = 0
-let seed = 371
 modulus = 5891
 multiplier = 1763
 adder = 2565
 max_value = 10
-current_random = seed
+current_random = 371
 basic.showNumber(current_random % max_value)
